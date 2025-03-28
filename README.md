@@ -1,3 +1,5 @@
+![Image](https://github.com/user-attachments/assets/c5a007da-fc22-4168-a873-2ca1d1c29c14)[](url)
+
 # THE-BR3-DASHBOARD-2025
 The dataset appears to contain information about wealthy individuals, including their rankings, names, industries, country details, wealth sources, and additional economic indicators.
 # Key Observations
