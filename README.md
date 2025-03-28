@@ -32,7 +32,7 @@ All values are stored as objects (strings), which may cause issues with numerica
 
 Some economic indicators (CPI, GDP, Life Expectancy) are listed under the "_Country" suffix.
 
-# The dataset is now properly structured with meaningful column names. I'll generate insights on:
+# INSIGHT WILL BE SOLELY ON THE FOLLOWING:
 
 Top industries among billionaires
 
@@ -82,7 +82,7 @@ France (16)
 
 166 billionaires (about 35%) have inherited wealth.
 
-Correlation Between Economic Indicators and Net Worth:
+# Correlation Between Economic Indicators and Net Worth:
 
 GDP has a slight positive correlation (0.04) with net worth.
 
