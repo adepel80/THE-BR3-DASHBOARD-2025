@@ -93,7 +93,7 @@ Total Tax Rate has a very weak correlation (0.03) with net worth.
 # Conclusion
 The finance and tech industries dominate billionaire wealth.
 
-https://github.com/adepel80/THE-BR3-DASHBOARD-2025/issues/1#issue-2957326753
+!https://github.com/adepel80/THE-BR3-DASHBOARD-2025/issues/1#issue-2957326753
 
 The U.S. and China house the most billionaires.
 
